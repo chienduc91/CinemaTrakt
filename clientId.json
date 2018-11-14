@@ -1,4 +1,5 @@
-{ "cliendId": {
-    "id": "dsdfsdfs"
+{ "traktInfo": {
+    "Client_ID": "7a1b9016323329ac5f7404fc660c00b6047eeeef7e1c7836abe8f2be4e164694z",
+    "Client_Secret": "6712213881bb38e3318ec2fb5b0c5ddaec6f7668bd803b3052c55486ace23f70"
   }
 }
